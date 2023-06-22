@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="40" viewBox="0 0 97 40">
+  <g id="Group_4304" data-name="Group 4304" transform="translate(8549 -6982)">
+    <g id="Rectangle_745" data-name="Rectangle 745" transform="translate(-8549 6982)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="97" height="40" rx="7" stroke="none"/>
+      <rect x="0.5" y="0.5" width="96" height="39" rx="6.5" fill="none"/>
+    </g>
+    <path id="Rectangle_746" data-name="Rectangle 746" d="M6,0h5a0,0,0,0,1,0,0V38a0,0,0,0,1,0,0H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(-8548 6983)" fill="#4169e2"/>
+    <line id="Line_62" data-name="Line 62" y2="39" transform="translate(-8536.5 6982.5)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_63" data-name="Line 63" x1="84" transform="translate(-8536.5 7010)" fill="none" stroke="#000" stroke-width="1"/>
+    <g id="Group_4302" data-name="Group 4302" transform="translate(0 -76)">
+      <text id="I" transform="translate(-8543 7066)" fill="#fff" font-size="6" font-family="Bahnschrift"><tspan x="0" y="0">I</tspan></text>
+      <text id="R" transform="translate(-8544 7075)" fill="#fff" font-size="6" font-family="Bahnschrift" font-weight="600"><tspan x="0" y="0">R</tspan></text>
+      <text id="A" transform="translate(-8544 7084)" fill="#fff" font-size="6" font-family="Bahnschrift" font-weight="600"><tspan x="0" y="0">A</tspan></text>
+      <text id="Q" transform="translate(-8544 7093)" fill="#fff" font-size="6" font-family="Bahnschrift"><tspan x="0" y="0">Q</tspan></text>
+    </g>
+    <text id="س" transform="translate(-8535 6994)" fill="#191717" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">س</tspan></text>
+    <text id="_34567" data-name="34567" transform="translate(-8518 6997)" fill="#191717" font-size="14" font-family="Bahnschrift" font-weight="700" letter-spacing="0.35em"><tspan x="0" y="0">34567</tspan></text>
+    <text id="_34567-2" data-name="34567" transform="translate(-8517 7007)" fill="#191717" font-size="9" font-family="Bahnschrift" letter-spacing="0.85em"><tspan x="0" y="0">34567</tspan></text>
+    <text id="S" transform="translate(-8530 7007)" fill="#191717" font-size="8" font-family="Bahnschrift" letter-spacing="0.31em"><tspan x="0" y="0">S</tspan></text>
+    <text id="حكومية" transform="translate(-8507 7018)" fill="#191717" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">حكومية</tspan></text>
+  </g>
+</svg>

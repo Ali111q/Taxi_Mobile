@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41.469" height="48.204" viewBox="0 0 41.469 48.204">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.027" y1="0.292" x2="0.829" y2="-1.199" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f27d58"/>
+      <stop offset="1" stop-color="#d97150"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.146" y1="1.929" x2="1.669" y2="0.406" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Social_Icon" transform="translate(-35.77 0)">
+    <g id="Avatar-2" transform="translate(35.77 0)">
+      <path id="Path_12" data-name="Path 12" d="M56.5,262.278a15.3,15.3,0,0,0,8.279-2.361,4.671,4.671,0,0,1,5.66.473,20.678,20.678,0,0,1,6.795,15.38l0,2.512a4.707,4.707,0,0,1-4.707,4.7H40.482a4.707,4.707,0,0,1-4.707-4.7l0-2.512a20.679,20.679,0,0,1,6.795-15.38,4.672,4.672,0,0,1,5.66-.473A15.3,15.3,0,0,0,56.5,262.278Z" transform="translate(-35.77 -234.776)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="11.657" cy="11.657" r="11.657" transform="translate(9.079 0)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
